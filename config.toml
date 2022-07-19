@@ -19,7 +19,7 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo.svg"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
@@ -70,11 +70,6 @@ theme = "hugo-serif-theme"
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 4
-
-  [[menu.main]]
-      name = "Email"
-      url = "mailto:thad@thadhughes.xyz"
       weight = 4
 
   # Footer Menu

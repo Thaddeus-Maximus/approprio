@@ -1,12 +1,12 @@
 ---
 title: "Equipment Design & Build"
-date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
 ---
 
-We design and build custom equipment that helps you work better.
+![](/images/jigging.jpg)
+We design and build custom equipment that helps you work better. Powered tools or manual fixtures, sensored lighting... we can probably help!
 
 # Past Work
 

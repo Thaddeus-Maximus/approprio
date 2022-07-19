@@ -8,6 +8,8 @@ weight: 5
 
 You broke a critical part of your machine, and they don't make it anymore? Or you're tired of it continuing to break? We can help make a replacement or upgrade.
 
+![](/images/actuator_exploded.jpg)
+
 # Past Work
 
 ## [A New Tiller Handle](/portfolio/tiller/)

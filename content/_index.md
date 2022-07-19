@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # "Make One's Own"
 
-We use develop tools and equipment for small businesses and individuals to promote the good life: meaningful work, goods, and leisure. We make technology that’s appropriate for mankind.
+We use develop tools and equipment for small businesses and individuals to lead better lives. We make **technology that’s appropriate for mankind**.
